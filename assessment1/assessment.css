@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header{
-    background: url(../Assessment/img/leptop.webp)no-repeat center center/cover;
+    background: url(../img/leptop.webp)no-repeat center center/cover;
     background-attachment: fixed;
     height: 100vh;
 }
